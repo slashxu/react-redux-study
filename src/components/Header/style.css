@@ -1,4 +1,4 @@
-.container {
+.container{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -11,7 +11,7 @@
   max-height: 110px;
 }
 
-.reserva {
+.reserva{
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -29,5 +29,5 @@
 
 .reserva span{
   color: #DDD;
-  font-size: 15px;
+  font-size: 15px
 }
